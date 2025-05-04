@@ -10,7 +10,7 @@ This project visualizes intra-urban economic disparities in Nairobi using open d
   - Administrative Wards: https://data.humdata.org/dataset/administrative-wards-in-kenya-1450
   - Relative Wealth Index: https://data.humdata.org/dataset/relative-wealth-index/resource/15d09fc4-8d0e-46f4-8a6b-c7580f9387b8
 
-**In particular, the building count file is too large to be uploaded in this repository and should be downloaded from the website for reproduction.**
+**In particular, some building count files (.dbf, .shp) are too large to be uploaded in this repository and should be downloaded from the website for reproduction.**
 
 ## Goals
 - Visualize estimated vulnerable areas considering infrastructure accessibility at high spatial resolution (Streamlit, Q-GIS [optional])
