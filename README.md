@@ -41,5 +41,5 @@ git clone https://github.com/Mitsuhiro-ODAKA/poverty-inequality-nairobi.git
 cd poverty-inequality-nairobi
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 ![dashboard](imgs/streamlit_img.png)
