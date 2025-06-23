@@ -20,7 +20,7 @@ This project visualizes intra-urban economic disparities in Nairobi using open d
 - QGIS 3.40.6 [optional]
 - Python 3.12.9 (GeoPandas)
 
-## 🌍 Nairobi Spatial Inequality Dashboard
+## Nairobi Spatial Inequality Dashboard
 
 This Streamlit dashboard visualizes spatial inequality in Nairobi by combining:
 
@@ -28,13 +28,13 @@ This Streamlit dashboard visualizes spatial inequality in Nairobi by combining:
 - **Relative Wealth Index (RWI)**
 - **Proximity to railways and waterways**
 
-## 🖥️ Features
+## Features
 
 - Interactive map of vulnerable wards (high density, low wealth)
 - Slider to filter top X% most vulnerable areas
 - Pairplot showing variable relationships
 
-## 📦 Setup
+## Setup
 
 ```bash
 git clone https://github.com/Mitsuhiro-ODAKA/poverty-inequality-nairobi.git
