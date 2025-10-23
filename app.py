@@ -9,7 +9,7 @@ def main():
     # Page config
 	st.set_page_config(page_title="Nairobi Spatial Inequality", layout="wide")
 
-	st.title("🌍 Nairobi Spatial Inequality Dashboard")
+	st.title("Nairobi Spatial Inequality Dashboard")
 	st.markdown("""
 	This dashboard explores the spatial relationship between **building density**, **relative wealth**, and **infrastructure access** in Nairobi.
 	Use the slider below to filter and explore the most vulnerable areas.
